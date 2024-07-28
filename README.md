@@ -1,5 +1,12 @@
 # Running python code in Docker container
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/adamfordyce11/python-container)
+
+## Setup
+
+1. Install Python version > 3.9 and create a virtual environment.
+2. Install Docker or a similar container runtime.
+
 ## Build the container
 
 ```bash
